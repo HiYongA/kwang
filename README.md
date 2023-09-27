@@ -15,7 +15,7 @@
 
 🏡 ['크왕' 바로가기](https://kwang-nine.vercel.app/) |
 👩🏻‍💻 [(주) 리더스클럽 팀 노션](https://rebel-fernleaf-914.notion.site/Leaders-Club-Co-Ltd-f82fb44af3db4bcbb0b8db4d6396c485?pvs=4) |
-🎬 [데모 영상](https://youtu.be/8VZM7G-v1lA?si=h76EG2kSBmttRAnu)
+🎬 [데모 영상](https://youtu.be/8VZM7G-v1lA?si=h76EG2kSBmttRAnu)
 
 <br />
 
