@@ -14,7 +14,8 @@
 일반인도 누구나 크리에이터가 되는 시대에 개인이 자신을 알리고 팬과 소통할 수 있는 페이지를 쉽게 제작할 수 있는 멀티링크 솔루션. 인스타그램 프로필에 하나의 링크만 게시할 수 있어 링크트리 등 다양한 멀티링크 서비스가 기존에 있지만 크리에이터(작가, 트레이너, 뮤지션, 요리사, 강사, 개발자, 여행가 등)들을 타겟으로 크왕은 팬레터, 메일링(뉴스레터) 신청, 예약신청, 함께하기 챌린지 등의 서비스를 기본으로 제공합니다.  
 
 🏡 ['크왕' 바로가기](https://kwang-nine.vercel.app/) |
-👩🏻‍💻 [(주) 리더스클럽 팀 노션](https://rebel-fernleaf-914.notion.site/Leaders-Club-Co-Ltd-f82fb44af3db4bcbb0b8db4d6396c485?pvs=4)
+👩🏻‍💻 [(주) 리더스클럽 팀 노션](https://rebel-fernleaf-914.notion.site/Leaders-Club-Co-Ltd-f82fb44af3db4bcbb0b8db4d6396c485?pvs=4) |
+🎬 [데모 영상](https://youtu.be/8VZM7G-v1lA?si=h76EG2kSBmttRAnu)
 
 <br />
 
